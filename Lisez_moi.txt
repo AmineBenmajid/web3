@@ -1,0 +1,19 @@
+Mon théme concernant Les 3 Meilleurs Pays à Visiter au Monde.
+
+la page index:
+un video et une citation convenables avec le theme 
+6 images
+un bon style de la button 'voir plus'
+tous les paragraphes ont le méme police qui est:
+'Patrick Hand'.
+une CSS Media Queries.
+
+les 3 pages html:
+Ils ont la meme structure: 4 images, 4 paragraphes et un table de données.
+
+la page sommaire:
+4 hyperliens avec un 'hover effect' dans toute les pages pour naviger facilement.
+
+Toute les images sont affectés avec le style 'border-radius'.
+Dans chaque paragraphe ou table il'ya un hyperlien qui indique la source du contenu.
+
